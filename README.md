@@ -1,2 +1,2 @@
-# TIET-SS-MiniProject-22-CosineSimilarity
+# TIET-MiniProject-22-CosineSimilarity
 Cosine Similarity
